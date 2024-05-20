@@ -1,3 +1,5 @@
+Game developed during one of the courses during my studies. Below are presented examples with commands.
+
 NMK game solver(e.g. tic tac toe) using min-max algorithm
 n - numer of rows
 m - numer of columns
